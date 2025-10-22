@@ -90,3 +90,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadownoir666&show_icons=true&locale=en" alt="shadownoir666" /></p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadownoir666/shadownoir666/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadownoir666/shadownoir666/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shadownoir666/shadownoir666/output/pacman-contribution-graph.svg">
+</picture>
+
+###
