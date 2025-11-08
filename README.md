@@ -51,7 +51,7 @@
 
 <p align="center">
   ⚔️ <b>Codeforces:</b> Max Rating: <b>1241</b> | Current: <b>1241</b> <br/>
-  ☕ <b>CodeChef:</b> Max Rating: <b>1583</b> | Current: <b>1574</b> <br/>
+  ☕ <b>CodeChef:</b> Max Rating: <b>1583</b> | Current: <b>1623</b> <br/>
   💡 <b>LeetCode:</b> Solved <b>300+</b> problems and growing 🚀
 </p>
 
